@@ -1,0 +1,15 @@
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\sound\bounceSound.xnb
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\profile_pic.xnb
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\GameBaseDebug.exe
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\GameBaseDebug.pdb
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\GameBase.dll
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\GameBase.pdb
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\obj\x86\Debug\GameBaseDebug.csprojResolveAssemblyReference.cache
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\obj\x86\Debug\GameBaseDebug.exe
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\obj\x86\Debug\GameBaseDebug.pdb
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\GreenBack.xnb
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\RedBlock.xnb
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\DefaultFont.xnb
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\explosion.xnb
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\RandomBack.xnb

@@ -1,0 +1,1 @@
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebugContent\obj\x86\Debug\GameBaseDebugContent.contentprojResolveAssemblyReference.cache

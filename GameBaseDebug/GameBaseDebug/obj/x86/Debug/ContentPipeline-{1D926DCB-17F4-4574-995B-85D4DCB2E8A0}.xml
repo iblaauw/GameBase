@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>sound\bounceSound.wav</Source>
+      <Name>sound\bounceSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\sound\bounceSound.xnb</Output>
+      <Time>2014-04-02T09:31:08.9666097-04:00</Time>
+    </Item>
+    <Item>
+      <Source>GreenBack.png</Source>
+      <Name>GreenBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\GreenBack.xnb</Output>
+      <Time>2014-05-13T17:24:58.6484424-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RedBlock.png</Source>
+      <Name>RedBlock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\RedBlock.xnb</Output>
+      <Time>2014-05-13T22:47:55.2107614-04:00</Time>
+    </Item>
+    <Item>
+      <Source>DefaultFont.spritefont</Source>
+      <Name>DefaultFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\DefaultFont.xnb</Output>
+      <Time>2014-05-13T22:53:41.3535898-04:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyEnabled">False</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2014-05-13T23:53:31.8217003-04:00</Time>
+    </Item>
+    <Item>
+      <Source>profile_pic.jpg</Source>
+      <Name>profile_pic</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor">255, 255, 255, 255</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\profile_pic.xnb</Output>
+      <Time>2014-05-10T15:15:48.542296-04:00</Time>
+    </Item>
+    <Item>
+      <Source>RandomBack.png</Source>
+      <Name>RandomBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\RandomBack.xnb</Output>
+      <Time>2014-05-14T13:11:28.8251084-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1D926DCB-17F4-4574-995B-85D4DCB2E8A0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebugContent\</RootDirectory>
+      <LoggerRootDirectory>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-01T12:12:39.8892541-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

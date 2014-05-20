@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameBase", "GameBase\GameBase.csproj", "{1202AF07-75CC-4291-9A35-1D212BCCE377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameBaseDebug", "GameBaseDebug\GameBaseDebug\GameBaseDebug.csproj", "{1735001C-E11F-4406-9CF0-FF364DD08A03}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GameBaseDebugContent", "GameBaseDebug\GameBaseDebugContent\GameBaseDebugContent.contentproj", "{1D926DCB-17F4-4574-995B-85D4DCB2E8A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1202AF07-75CC-4291-9A35-1D212BCCE377}.Debug|x86.ActiveCfg = Debug|x86
+		{1202AF07-75CC-4291-9A35-1D212BCCE377}.Debug|x86.Build.0 = Debug|x86
+		{1202AF07-75CC-4291-9A35-1D212BCCE377}.Release|x86.ActiveCfg = Release|x86
+		{1202AF07-75CC-4291-9A35-1D212BCCE377}.Release|x86.Build.0 = Release|x86
+		{1735001C-E11F-4406-9CF0-FF364DD08A03}.Debug|x86.ActiveCfg = Debug|x86
+		{1735001C-E11F-4406-9CF0-FF364DD08A03}.Debug|x86.Build.0 = Debug|x86
+		{1735001C-E11F-4406-9CF0-FF364DD08A03}.Release|x86.ActiveCfg = Release|x86
+		{1735001C-E11F-4406-9CF0-FF364DD08A03}.Release|x86.Build.0 = Release|x86
+		{1D926DCB-17F4-4574-995B-85D4DCB2E8A0}.Debug|x86.ActiveCfg = Debug|x86
+		{1D926DCB-17F4-4574-995B-85D4DCB2E8A0}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
