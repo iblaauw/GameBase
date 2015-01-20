@@ -22,7 +22,7 @@ namespace GameBase
         private List<GameObject> objects;
         private List<GameObject> removed;
         private List<GameObject> added;
-        private Texture2D background;
+        //private Texture2D background;
         private ContentManager content;
 
         private bool loaded;
@@ -56,7 +56,7 @@ namespace GameBase
         /// <param name="serviceProvider">Get this by doing: Content.ServiceProvider</param>
         /// <param name="backgroundName">The path to the content to be used for a background. Use null if there is none.</param>
         /// <param name="contentRootDirectory">The path to the root of where content will be found. Use null for default.</param>
-        public GameMap(IServiceProvider serviceProvider, int width, int height, string contentRootDirectory)
+        internal GameMap(IServiceProvider serviceProvider, int width, int height, string contentRootDirectory)
         {
             objects = new List<GameObject>();
             removed = new List<GameObject>();

@@ -10,7 +10,8 @@ namespace GameBaseDebug
         /// </summary>
         static void Main(string[] args)
         {
-            using (Game1 game = new Game1())
+            StateManager manager = new StateManager();
+            using (GameBase.Game game = new GameBase.Game(manager))
             {
                 game.Run();
             }

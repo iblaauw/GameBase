@@ -13,3 +13,5 @@ c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBa
 c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\DefaultFont.xnb
 c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\explosion.xnb
 c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\RandomBack.xnb
+c:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\Content\NewSprite.xnb
+C:\Users\Ian\Documents\Visual Studio 2013\Projects\GameBase\GameBaseDebug\GameBaseDebug\bin\x86\Debug\GameBaseDebug.XML

@@ -104,7 +104,8 @@ namespace GameBase
         /// </summary>
         protected virtual void DrawObject(GameVector drawPosition, GameTime gameTime, SpriteBatch spriteBatch)
         {
-            sprite.Draw(drawPosition, gameTime, spriteBatch);
+            if (sprite != null)
+                sprite.Draw(drawPosition, gameTime, spriteBatch);
         }
 
         /// <summary>
@@ -118,7 +119,8 @@ namespace GameBase
         /// </param>
         protected virtual void DrawObjectView(GameVector offset, GameTime gameTime, SpriteBatch spriteBatch, Rectangle bounds)
         {
-            sprite.DrawPart(position + offset, gameTime, spriteBatch, bounds);
+            if (sprite != null)
+                sprite.DrawPart(position + offset, gameTime, spriteBatch, bounds);
         }
 
         /// <summary>

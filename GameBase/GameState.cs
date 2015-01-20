@@ -25,6 +25,7 @@ namespace GameBase
         /// <summary>
         /// This must be called from the Initialize function in your main Game class, or GameState may not function.
         /// </summary>
+        /// <param name="deviceManager">In the main Game class, this will just be "graphics".</param>
         public static void Initialize(GraphicsDeviceManager deviceManager, bool is3d)
         {
             manager = deviceManager;

@@ -68,9 +68,28 @@ namespace GameBase
                         new Rectangle((int)(GamePosition.X - go.position.X), (int)(GamePosition.Y - go.position.Y), Width, Height)
                         );
                 }
-
             }
 
+        }
+
+        /// <summary>
+        /// This will move the view by the X,Y amount specified in offset. It will not move the view outside of the game boundaries.
+        /// </summary>
+        public void Move(GameVector offset, int mapWidth, int mapHeight)
+        {
+            var xx = GamePosition.X + offset.X;
+            var yy = GamePosition.Y + offset.Y;
+
+            if (xx < 0)
+                xx = 0;
+            if (xx + Width > mapWidth)
+                xx = mapWidth - Width;
+            if (yy < 0)
+                yy = 0;
+            if (yy + Height > mapHeight)
+                yy = mapHeight - Height;
+
+            GamePosition = new GameVector(xx, yy);
         }
 
     }

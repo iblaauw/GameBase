@@ -5,3 +5,4 @@ Content\DefaultFont.xnb
 Content\explosion.xnb
 Content\profile_pic.xnb
 Content\RandomBack.xnb
+Content\NewSprite.xnb
